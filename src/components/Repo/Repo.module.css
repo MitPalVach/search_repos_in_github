@@ -1,0 +1,23 @@
+.repo {
+    border: solid 2px #ccc;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.repoHeader {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.repoHeaderName {
+    font-size: 1.2em;
+}
+
+.repoLink span {
+    text-decoration: none;
+    color: black;
+}
+
